@@ -13,3 +13,6 @@ Modified by Aibo Wang
 
 then you can see the result of 3d Bounding box detection
 See the main file ```src/main.cpp``` for more details.
+
+like that:
+![image](https://github.com/aibo-kit/detect_3d_cuboid_with_3d_IOU/blob/main/Screenshot%20from%202021-02-21%2018-07-53.png);
